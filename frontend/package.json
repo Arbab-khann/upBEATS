@@ -12,9 +12,9 @@
     "@sanity/client": "^6.1.2",
     "@sanity/image-url": "^1.0.2",
     "@stripe/stripe-js": "^1.54.0",
+    "canvas-confetti": "^1.9.2",
     "eslint": "8.42.0",
     "eslint-config-next": "13.4.4",
-    "next": "13.4.4",
     "next-sanity": "^4.3.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
@@ -22,5 +22,8 @@
     "react-icons": "^4.9.0",
     "stripe": "^12.8.0",
     "stripe-web": "^1.5.1"
+  },
+  "devDependencies": {
+    "next": "^14.0.4"
   }
 }
